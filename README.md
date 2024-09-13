@@ -45,6 +45,10 @@ To get started with the Tic Tac Toe game, follow these steps:
 - `script.js`: The JavaScript file for game logic and interactivity.
 - `img-tit-tac-toe.gif`: The image file displayed at the top of the game.
 
+## Live Demo
+
+You can play the game live here: [Tic Tac Toe Game](https://sharath4444.github.io/tic-tac-toe/)
+
 ## Usage
 
 1. Enter names and choose colors for both players in the input fields.
