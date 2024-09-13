@@ -37,7 +37,7 @@ To get started with the Tic Tac Toe game, follow these steps:
 3. **Open `index.html` in a Web Browser**:
 
     You can open `index.html` directly in your web browser to start playing the game.
-
+   
 ## File Structure
 
 - `index.html`: The main HTML file for the game.
